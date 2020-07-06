@@ -34,7 +34,7 @@ Three benchmark datasets MNIST, Fashion-MNIST, kMNIST are included in this packa
 
 Please cite our paper if you use this code in your own work:
 
-@inproceedings{wang2020,
+@article{wang2020,
 
 author = {Wang, Junxiang and Zheng Chai and Yue Chen and Zhao, Liang},
 
