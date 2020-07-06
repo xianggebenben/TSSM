@@ -13,9 +13,13 @@ python setup.py install
 ## Requirements
 
 tensorflow 2.1.0
+
 numpy 1.18.1
+
 scipy 1.4.1
+
 keras 2.3.1
+
 tensorflow_datasets 1.3.2
 
 ## Run the Demo
