@@ -4,7 +4,7 @@
 This is a  simple demo of Tunable Subnetwork Splitting Method (TSSM) as described in our paper:
 
 Junxiang Wang, Zheng Chai, Yue Cheng, and Liang Zhao. [Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training.](https://www.researchgate.net/publication/342542966_Tunable_Subnetwork_Splitting_for_Model-parallelism_of_Neural_Network_Training) 
-(ICML workshop ICML 2020 Workshop: Beyond First Order Methods in Machine Learning)
+(ICML 2020 Workshop: Beyond First Order Methods in Machine Learning)
 
 ## Installation
 
