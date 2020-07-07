@@ -1,5 +1,5 @@
 import numpy as np
-from input_data import mnist
+from TSSM.input_data import mnist
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import  Dense
 from tensorflow.keras.initializers import RandomNormal
